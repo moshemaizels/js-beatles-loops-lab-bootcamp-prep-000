@@ -22,7 +22,7 @@ function johnLennonFacts(facts1) {
 }
 
 function iLoveTheBeatles(num) {
-  var loveDecl = []
+  var loveDecl = ["foobar"]
   num = 15
   var i = 7
   do {
