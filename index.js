@@ -22,15 +22,15 @@ function johnLennonFacts(facts1) {
 }
 
 function iLoveTheBeatles(num) {
-  var loveDecl = ["foobar"]
-  num = 15
-  var i = 7
-  do {
+//  var loveDecl = ["foobar"]
+//  num = 15
+//  var i = 7
+  /*do {
     loveDecl.push("I love the Beatles!")
   } while (i < 15) {
 
     loveDecl.push("I love the Beatles!")
     i += 1
-  }
-  return loveDecl
+  }*/
+//  return loveDecl
 }
