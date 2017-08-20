@@ -23,6 +23,7 @@ function johnLennonFacts(facts1) {
 
 function iLoveTheBeatles(num) {
   var iLove = []
+  return iLove
 //  var loveDecl = ["foobar"]
 //  num = 15
 //  var i = 7
